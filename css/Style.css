@@ -1,0 +1,24 @@
+body{
+    background-image:url('https://cdn2.ettoday.net/images/4835/4835621.jpg');       
+    font-family:標楷體;
+    background-size:cover; 
+}
+h2{ 
+        font-size: 45px;
+        font-family:標楷體;
+        font-weight: 600;
+        line-height: 1.5;
+        text-align:center;
+        background: -webkit-linear-gradient(#fddb92,#BEB8EB);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+
+}
+input{
+        border:0;
+        background-color:#92977E;
+        color:#fff;border-radius:10px;
+    }
+p{
+    font-size: 45px;
+}

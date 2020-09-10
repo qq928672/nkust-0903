@@ -1,0 +1,25 @@
+body{
+    background-image:url('https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=661&q=80');
+    font-family:標楷體;
+    background-size:cover;  
+}
+h2{ 
+    font-size: 45px;
+    font-family:標楷體;
+    font-weight: 600;
+    line-height: 1.5;
+    text-align:center;
+    background: -webkit-linear-gradient(#fddb92, #d1fdff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+}
+input{
+    border:0;
+    background-color:#EDF7F6;
+    color:#393E41;border-radius:10px;
+}
+.css{
+    color:#EDF7F6;
+    font-size: 20px;
+  }
